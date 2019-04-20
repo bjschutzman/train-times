@@ -1,0 +1,16 @@
+body { 
+    background: url(train2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .card{
+    background: #36454f;
+    color: white
+  }
+
+  th{
+    color: white;
+  }
